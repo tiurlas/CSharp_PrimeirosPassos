@@ -1,8 +1,0 @@
-E:\Repositórios\Exercicios\Exercicios\bin\Debug\Exercicios.exe.config
-E:\Repositórios\Exercicios\Exercicios\bin\Debug\Exercicios.exe
-E:\Repositórios\Exercicios\Exercicios\bin\Debug\Exercicios.pdb
-E:\Repositórios\Exercicios\Exercicios\obj\Debug\Exercicios.csproj.AssemblyReference.cache
-E:\Repositórios\Exercicios\Exercicios\obj\Debug\Exercicios.csproj.SuggestedBindingRedirects.cache
-E:\Repositórios\Exercicios\Exercicios\obj\Debug\Exercicios.csproj.CoreCompileInputs.cache
-E:\Repositórios\Exercicios\Exercicios\obj\Debug\Exercicios.exe
-E:\Repositórios\Exercicios\Exercicios\obj\Debug\Exercicios.pdb
