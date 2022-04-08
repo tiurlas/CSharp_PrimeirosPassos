@@ -1,0 +1,8 @@
+E:\Repositórios\ExercicioResolvido9\ExercicioResolvido9\bin\Debug\ExercicioResolvido9.exe.config
+E:\Repositórios\ExercicioResolvido9\ExercicioResolvido9\bin\Debug\ExercicioResolvido9.exe
+E:\Repositórios\ExercicioResolvido9\ExercicioResolvido9\bin\Debug\ExercicioResolvido9.pdb
+E:\Repositórios\ExercicioResolvido9\ExercicioResolvido9\obj\Debug\ExercicioResolvido9.csproj.AssemblyReference.cache
+E:\Repositórios\ExercicioResolvido9\ExercicioResolvido9\obj\Debug\ExercicioResolvido9.csproj.SuggestedBindingRedirects.cache
+E:\Repositórios\ExercicioResolvido9\ExercicioResolvido9\obj\Debug\ExercicioResolvido9.csproj.CoreCompileInputs.cache
+E:\Repositórios\ExercicioResolvido9\ExercicioResolvido9\obj\Debug\ExercicioResolvido9.exe
+E:\Repositórios\ExercicioResolvido9\ExercicioResolvido9\obj\Debug\ExercicioResolvido9.pdb

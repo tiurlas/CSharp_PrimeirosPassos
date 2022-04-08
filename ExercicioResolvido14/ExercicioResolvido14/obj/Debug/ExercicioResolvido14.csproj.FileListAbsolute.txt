@@ -1,0 +1,8 @@
+E:\Repositórios\ExercicioResolvido14\ExercicioResolvido14\bin\Debug\ExercicioResolvido14.exe.config
+E:\Repositórios\ExercicioResolvido14\ExercicioResolvido14\bin\Debug\ExercicioResolvido14.exe
+E:\Repositórios\ExercicioResolvido14\ExercicioResolvido14\bin\Debug\ExercicioResolvido14.pdb
+E:\Repositórios\ExercicioResolvido14\ExercicioResolvido14\obj\Debug\ExercicioResolvido14.csproj.AssemblyReference.cache
+E:\Repositórios\ExercicioResolvido14\ExercicioResolvido14\obj\Debug\ExercicioResolvido14.csproj.SuggestedBindingRedirects.cache
+E:\Repositórios\ExercicioResolvido14\ExercicioResolvido14\obj\Debug\ExercicioResolvido14.csproj.CoreCompileInputs.cache
+E:\Repositórios\ExercicioResolvido14\ExercicioResolvido14\obj\Debug\ExercicioResolvido14.exe
+E:\Repositórios\ExercicioResolvido14\ExercicioResolvido14\obj\Debug\ExercicioResolvido14.pdb

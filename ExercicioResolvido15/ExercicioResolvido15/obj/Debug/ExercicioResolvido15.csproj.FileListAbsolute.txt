@@ -1,0 +1,8 @@
+E:\Repositórios\ExercicioResolvido15\ExercicioResolvido15\bin\Debug\ExercicioResolvido15.exe.config
+E:\Repositórios\ExercicioResolvido15\ExercicioResolvido15\bin\Debug\ExercicioResolvido15.exe
+E:\Repositórios\ExercicioResolvido15\ExercicioResolvido15\bin\Debug\ExercicioResolvido15.pdb
+E:\Repositórios\ExercicioResolvido15\ExercicioResolvido15\obj\Debug\ExercicioResolvido15.csproj.AssemblyReference.cache
+E:\Repositórios\ExercicioResolvido15\ExercicioResolvido15\obj\Debug\ExercicioResolvido15.csproj.SuggestedBindingRedirects.cache
+E:\Repositórios\ExercicioResolvido15\ExercicioResolvido15\obj\Debug\ExercicioResolvido15.csproj.CoreCompileInputs.cache
+E:\Repositórios\ExercicioResolvido15\ExercicioResolvido15\obj\Debug\ExercicioResolvido15.exe
+E:\Repositórios\ExercicioResolvido15\ExercicioResolvido15\obj\Debug\ExercicioResolvido15.pdb

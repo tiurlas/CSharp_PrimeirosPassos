@@ -1,0 +1,8 @@
+E:\Repositórios\ExercicioResolvido3\ExercicioResolvido3\bin\Debug\ExercicioResolvido3.exe.config
+E:\Repositórios\ExercicioResolvido3\ExercicioResolvido3\bin\Debug\ExercicioResolvido3.exe
+E:\Repositórios\ExercicioResolvido3\ExercicioResolvido3\bin\Debug\ExercicioResolvido3.pdb
+E:\Repositórios\ExercicioResolvido3\ExercicioResolvido3\obj\Debug\ExercicioResolvido3.csproj.AssemblyReference.cache
+E:\Repositórios\ExercicioResolvido3\ExercicioResolvido3\obj\Debug\ExercicioResolvido3.csproj.SuggestedBindingRedirects.cache
+E:\Repositórios\ExercicioResolvido3\ExercicioResolvido3\obj\Debug\ExercicioResolvido3.csproj.CoreCompileInputs.cache
+E:\Repositórios\ExercicioResolvido3\ExercicioResolvido3\obj\Debug\ExercicioResolvido3.exe
+E:\Repositórios\ExercicioResolvido3\ExercicioResolvido3\obj\Debug\ExercicioResolvido3.pdb

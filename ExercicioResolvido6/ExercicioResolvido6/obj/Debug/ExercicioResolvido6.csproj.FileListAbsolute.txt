@@ -1,0 +1,8 @@
+E:\Repositórios\ExercicioResolvido6\ExercicioResolvido6\bin\Debug\ExercicioResolvido6.exe.config
+E:\Repositórios\ExercicioResolvido6\ExercicioResolvido6\bin\Debug\ExercicioResolvido6.exe
+E:\Repositórios\ExercicioResolvido6\ExercicioResolvido6\bin\Debug\ExercicioResolvido6.pdb
+E:\Repositórios\ExercicioResolvido6\ExercicioResolvido6\obj\Debug\ExercicioResolvido6.csproj.AssemblyReference.cache
+E:\Repositórios\ExercicioResolvido6\ExercicioResolvido6\obj\Debug\ExercicioResolvido6.csproj.SuggestedBindingRedirects.cache
+E:\Repositórios\ExercicioResolvido6\ExercicioResolvido6\obj\Debug\ExercicioResolvido6.csproj.CoreCompileInputs.cache
+E:\Repositórios\ExercicioResolvido6\ExercicioResolvido6\obj\Debug\ExercicioResolvido6.exe
+E:\Repositórios\ExercicioResolvido6\ExercicioResolvido6\obj\Debug\ExercicioResolvido6.pdb
